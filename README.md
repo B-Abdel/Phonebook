@@ -1,3 +1,3 @@
 # Phonebook
 
-basic phonebook app in C
+Basic phonebook app in C
